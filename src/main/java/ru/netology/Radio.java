@@ -8,7 +8,6 @@ import lombok.*;
 @Getter
 
 
-
 public class Radio {
     private int currentRadioStation;
     private int maxRadioStation = 10;
